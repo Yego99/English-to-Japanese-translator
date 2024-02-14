@@ -1,1 +1,2 @@
 # Translator
+For my second project I experimented with a translation python library and the open and read python functions. Resulting in a translator that reads whatever you write in a designated text document and gives you the Japanese translation. This project demonstrated the power of Python libraries and taught me the importance of thoroughly reading and going through the coding documentation.
